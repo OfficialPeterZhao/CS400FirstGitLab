@@ -1,4 +1,6 @@
 /*
+ * Peter Zhao, pzhao62@wisc.edu || Peterzhaoofficial@gmail.com
+ * peterz
  *	Color class
  */
 public class Color{
